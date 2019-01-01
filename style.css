@@ -1,0 +1,12 @@
+header {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+article, footer{
+  font-family: Arial, sans-serif;
+}
+aside:hover {
+  background-color: red;
+}
+header:active {
+  background-color: blue;
+}
